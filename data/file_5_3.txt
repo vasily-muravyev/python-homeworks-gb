@@ -1,0 +1,4 @@
+Ivanov 21000
+Petrov 300000
+Sidorov 10000
+Muravyev 300000
