@@ -24,5 +24,5 @@ with open(os.path.join('data', 'file_5_4.txt'), encoding='utf8') as f_in:
         for line in f_in:
             words = line.split()
             words[0] = translations[words[0]]
-            f_out.write(' '.join(words) + '\n')
+        f_out.write(' '.join(words) + '\n')
 
